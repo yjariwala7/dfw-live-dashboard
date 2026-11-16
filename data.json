@@ -1,1 +1,6 @@
-{"checked_at":null,"source":"https://nasstatus.faa.gov/api/airport-events","success":false,"events":[],"error":"Awaiting first scheduled update"}
+{
+  "checked_at": "2026-11-16T02:09:24.123938+00:00",
+  "source": "https://nasstatus.faa.gov/api/airport-events",
+  "success": true,
+  "events": []
+}
