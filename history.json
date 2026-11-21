@@ -207,5 +207,16 @@
       "departureDelay": 0,
       "airportClosure": 0
     }
+  },
+  {
+    "at": "2026-11-21T11:44:35+00:00",
+    "success": true,
+    "counts": {
+      "groundStop": 0,
+      "groundDelay": 0,
+      "arrivalDelay": 0,
+      "departureDelay": 0,
+      "airportClosure": 0
+    }
   }
 ]
