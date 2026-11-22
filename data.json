@@ -1,23 +1,6 @@
 {
-  "checked_at": "2026-11-22T03:27:10+00:00",
+  "checked_at": "2026-11-22T11:56:34+00:00",
   "source": "https://nasstatus.faa.gov/api/airport-events",
   "success": true,
-  "events": [
-    {
-      "type": "departureDelay",
-      "details": {
-        "airportId": "DFW",
-        "reason": "TM Initiatives:MIT:WX",
-        "arrivalDeparture": {
-          "type": "Departure",
-          "min": "16 minutes",
-          "max": "30 minutes",
-          "trend": "Increasing"
-        },
-        "updateTime": "2026-11-21T02:35:00Z",
-        "averageDelay": "15",
-        "trend": "increasing"
-      }
-    }
-  ]
+  "events": []
 }
