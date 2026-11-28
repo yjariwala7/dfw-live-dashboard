@@ -1,16 +1,5 @@
 [
   {
-    "at": "2026-11-21T18:17:23+00:00",
-    "success": true,
-    "counts": {
-      "groundStop": 0,
-      "groundDelay": 0,
-      "arrivalDelay": 0,
-      "departureDelay": 0,
-      "airportClosure": 0
-    }
-  },
-  {
     "at": "2026-11-21T23:28:39+00:00",
     "success": true,
     "counts": {
@@ -221,6 +210,17 @@
   },
   {
     "at": "2026-11-28T12:16:24+00:00",
+    "success": true,
+    "counts": {
+      "groundStop": 0,
+      "groundDelay": 0,
+      "arrivalDelay": 0,
+      "departureDelay": 0,
+      "airportClosure": 0
+    }
+  },
+  {
+    "at": "2026-11-28T20:21:06+00:00",
     "success": true,
     "counts": {
       "groundStop": 0,
